@@ -183,3 +183,4 @@ int main() {
     printf("\nJogo finalizado. Memória liberada com sucesso!\n");
     return 0;
 }
+
